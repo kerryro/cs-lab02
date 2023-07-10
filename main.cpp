@@ -5,7 +5,7 @@ int main()
     cout << "Enter A and B: ";
     int a, b;
     int max;
-    cin >> a >> b>> max;
+    cin >> a >> b;
     if(a>b)
         max=a;
     else
